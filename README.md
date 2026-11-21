@@ -5,12 +5,9 @@ An automated installer designed to simplify setting up **F.E.A.R. (2005)** with 
 ## Features
 
 - Echo Patch installation
-- Sikkmod installation
-- Mutilation installation with three selectable variants:
-  - Base
-  - Plus
-  - Payneful
-- True F.E.A.R. installation
+- Sikkmod Mod installation
+- Mutilation Mod installation
+- True F.E.A.R. Mod installation
 - Optional Disable Cutscene Letterboxing setting
 - Optional Infinite Flashlight setting
 - Custom Weapon Capacity configuration
@@ -29,27 +26,27 @@ An automated installer designed to simplify setting up **F.E.A.R. (2005)** with 
 ## Included Components
 
 - Echo Patch
-- Sikkmod
-- Mutilation (Base / Plus / Payneful)
-- True F.E.A.R.
+- Sikkmod Mod
+- Mutilation Mod
+- True F.E.A.R. Mod
 
 ## Important Notes
 
 - Mutilation Plus conflicts with Echo Patch's Custom Weapon Capacity option. Avoid enabling both together.
 - The installer creates backups of affected game files to support restoration.
 
-## Credits (Mod Authors)
+## Credits
 
 All modifications remain the property of their respective authors. FEARSetup2026 is an independent installation utility and is not affiliated with the original mod developers.
 
-- **Echo Patch** — [Original project / download link]
-- **Sikkmod** — [Original project / download link]
-- **Mutilation** — [Original project / download link]
-- **True F.E.A.R.** — [Original project / download link]
+- **Echo Patch** - https://github.com/Wemino/EchoPatch
+- **Sikkmod** - https://www.moddb.com/mods/sikkmod-fear/downloads/sikkmod-v3-fear
+- **Mutilation** - https://www.moddb.com/games/fear/downloads/mutilation
+- **True F.E.A.R.** - https://www.moddb.com/mods/true-fear1
 
 Please refer to the original mod pages for their authors, documentation, permissions, and additional credits.
 
 ## Support
 
-- Report bugs and installation issues through the [GitHub Issues](https://github.com/StayOutOfTheLadiesRestroom/FEARSetup2026/issues) page.
 - Favourite and star the repository if you find the project useful.
+- Buy me a game from my steam wishlist: https://store.steampowered.com/wishlist/id/TF29
