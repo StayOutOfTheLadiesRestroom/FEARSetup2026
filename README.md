@@ -4,7 +4,7 @@ An automated installer designed to simplify setting up **F.E.A.R. (2005)** with 
 
 ## Features
 
-- Echo Patch installation (recommended, but optional)
+- Echo Patch installation
 - Sikkmod installation
 - Mutilation installation with three selectable variants:
   - Base
