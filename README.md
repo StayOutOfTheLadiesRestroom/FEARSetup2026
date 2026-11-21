@@ -23,9 +23,8 @@ An automated installer designed to simplify setting up **F.E.A.R. (2005)** with 
 
 ## Requirements
 
-- F.E.A.R. (2005) — Steam version recommended
-- Windows x64
-- .NET 10 runtime is not required for the self-contained release
+- F.E.A.R. (2005), Steam version recommended
+- Windows
 
 ## Included Components
 
@@ -36,12 +35,7 @@ An automated installer designed to simplify setting up **F.E.A.R. (2005)** with 
 
 ## Important Notes
 
-- Echo Patch is selected by default, but can be disabled.
-- Sikkmod is selected by default.
-- Mutilation is optional and allows you to choose between three variants.
-- True F.E.A.R. is optional.
 - Mutilation Plus conflicts with Echo Patch's Custom Weapon Capacity option. Avoid enabling both together.
-- Disabling Cutscene Letterboxing removes the black bars during cutscenes; it does not replace or improve the cutscenes themselves.
 - The installer creates backups of affected game files to support restoration.
 
 ## Credits (Mod Authors)
@@ -59,23 +53,3 @@ Please refer to the original mod pages for their authors, documentation, permiss
 
 - Report bugs and installation issues through the [GitHub Issues](https://github.com/StayOutOfTheLadiesRestroom/FEARSetup2026/issues) page.
 - Favourite and star the repository if you find the project useful.
-
-## Releases
-
-**FEARSetup2026 v1.0.0** — [Latest Release](https://github.com/StayOutOfTheLadiesRestroom/FEARSetup2026/releases/latest)
-
-### Included components
-
-- Echo Patch
-- Sikkmod
-- Mutilation (Base / Plus / Payneful)
-- True F.E.A.R.
-
-### What's New
-
-- Initial release of FEARSetup2026.
-- Automated installation of selected F.E.A.R. modifications.
-- Steam game detection and manual directory selection.
-- Backup support for affected game files.
-- Optional Echo Patch configuration.
-- Self-contained Windows x64 executable.
