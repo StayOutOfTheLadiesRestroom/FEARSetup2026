@@ -2,6 +2,8 @@
 
 An automated installer designed to simplify setting up **F.E.A.R. (2005)** with community patches, graphical enhancements, gameplay modifications, and optional quality-of-life improvements.
 
+(Patches also work for F.E.A.R.: Extraction Point and F.E.A.R: Perseus Mandate)
+
 ## Features
 
 - Echo Patch installation
